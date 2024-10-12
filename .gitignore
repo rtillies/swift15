@@ -1,3 +1,5 @@
 
 .DS_Store
 student/.DS_Store
+*.key
+student/Xcode15_textbook.jpg
